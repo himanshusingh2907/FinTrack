@@ -15,8 +15,8 @@ A backend API for managing financial records with role-based access control.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/fintrack.git
-cd fintrack/backend
+git clone https://github.com/himanshusingh2907/FinTrack
+cd FinTrack/backend
 ```
 
 ### 2. Install dependencies
